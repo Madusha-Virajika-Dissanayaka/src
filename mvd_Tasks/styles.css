@@ -1,0 +1,48 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-image: url(http://staff.hamk.fi/~tsaksa/temp/background-image.jpg );
+    background-size: cover;
+    
+}
+
+h1, h2, h3 {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+}
+
+.btn {
+    background-color: blueviolet;
+   border-color: black;
+}
+
+
+.btn :hover{
+
+    background-color: brown;
+    border-color: black;
+}
+
+
+.dropdown-menu{
+
+    background-color: yellowgreen;
+
+
+}
+
+img{
+    width: 1300px;
+    height: auto;
+    margin-left: 25px;
+    margin-left: 25px;
+ 
+}
+
+p{
+
+text-align: justify;
+cp
+}
+

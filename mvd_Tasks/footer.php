@@ -4,7 +4,7 @@
 
     <footer class="row">
         <div class = "col-md-4"> Madusha Dissanayaka</div>
-        <div class = "col-md-4">Web Development</div>
+        <div class = "col-md-4">Web Programming</div>
         <div class = "col-md-4">2024</div>
     </footer>
 </div>

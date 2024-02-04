@@ -18,16 +18,16 @@
         <div class = "col-sm-8">
             <ul class="nav">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="excersice1.php">Excersice 1</a>
+                  <a class="nav-link active" aria-current="page" href="ex1.php">Exercise 1</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Excersice 2</a>
+                  <a class="nav-link" href="ex2.php">Exercise 2</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Excersice 3</a>
+                  <a class="nav-link" href="#">Exercise 3</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Excersice 4</a>
+                    <a class="nav-link" href="#">Exercise 4</a>
                 </li>
               </ul>
                 

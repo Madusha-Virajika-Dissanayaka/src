@@ -1,6 +1,6 @@
 <?php 
 
-$title = "Exercise1";
+$title = "Exercise 1";
 
 include "header.php" ?>
     <h3>3.1 Write PHP code to output the following message:

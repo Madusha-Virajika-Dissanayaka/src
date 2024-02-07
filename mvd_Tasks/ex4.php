@@ -107,6 +107,17 @@ switch ($current_month) {
     ?>
 
 
+<h3>6. Foreach Loop: Write a PHP script that will print all the elements of an array. $myarray=("HTML", "CSS", "PHP", "JavaScript").</h3>
+
+<?php
+    $myarray=array("HTML", "CSS", "PHP", "JavaScript");
+    echo "<p>Elements of the array:</p>";
+    foreach ($myarray as $element) {
+        echo $element . "<br>";
+    }
+    ?>
+
+
 
 
 

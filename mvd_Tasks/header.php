@@ -38,9 +38,13 @@
         </div>
 
         <div class = "row">
-       <div class = "col-sm-2">
+       <div class = "col-sm-3">
         <h1>List of Tasks</h1>
-      <p>some text</p>
-      <button type="button" class="btn btn-primary">Primary</button>
+        <ul>
+           <li><a href ="/mvd_tasks/crud/index.php">Create Data</a></li>
+           <li><a href ="/mvd_tasks/crud/read.php">Read Data</a></li>
+        </ul>
+    
+
   </div>
- <div class = "col-sm-10">
+ <div class = "col-sm-9">

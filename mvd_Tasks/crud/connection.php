@@ -1,8 +1,9 @@
 <?php
-$servername = "php24-db-1";
-$username = "FirstApp";
-$password = "6335";
-$dbname = "FirstApp";
+//shell.hamk.fi >>> localhost
+$servername = "localhost";
+$username = "madusha23000";
+$password = "EPtwVVFd";
+$dbname = "wp_madusha23000";
 
 // create database connection
 

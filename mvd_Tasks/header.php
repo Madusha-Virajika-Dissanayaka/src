@@ -33,6 +33,11 @@
                 <li class="nav-item">
                     <a class="nav-link" href="ex4.php">Exercise 4</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/findalsi/web_project_group22/blob/main/README.md">Exercise 5</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="index.php">Exercise 7</a>
               </ul>
                 
         </div>

@@ -9,8 +9,8 @@ if (isset($_POST["submit"])) {
      $phone = $_POST["phone"];
      $email = $_POST["email"];
      $people = $_POST["people"];
-     $date = $_POST["date"];
-     $time = $_POST["time"];
+     $date = $_POST["rdate"];
+     $time = $_POST["rtime"];
      $seating =  $_POST["seating"];
      $occasion = $_POST["occasion"];
      $request =  $_POST["request"];
@@ -22,7 +22,7 @@ if (isset($_POST["submit"])) {
 
 
  // write sql statment to insert data
-$sql = "insert into reservations(first_name, last_name, phone_no, email, no_of_people, date, time, seating_type, occasion, special_request)
+$sql = "insert into reservations(first_name, last_name, phone_no, email, no_of_people, rdate, rtime, seating_type, occasion, special_request)
         values('$fname', '$lname', '$phone', '$email', '$people', '$date', '$time', '$seating', '$occasion', '$request')";
 
 
